@@ -52,7 +52,7 @@ document.addEventListener(
                 console.log(err);
             });
 
-        // if onDeepLinkListener: false or undefined, sdk will ignore registerOnDeepLink
+        //if onDeepLinkListener: false or undefined, sdk will ignore registerOnDeepLink
         // window.plugins.appsFlyer.registerOnDeepLink(function (res) {
         //     console.log("DDL ~~>" + res);
         //     alert('DDL ~~>' + res);
